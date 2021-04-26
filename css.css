@@ -1,0 +1,117 @@
+
+	p { text-align:center; 
+		font-family:arial;
+		font-size:20;
+		}
+		
+	h1{
+		text-align:center;
+		padding-bottom:30px;
+		margin-bottom:0px;
+	}
+	
+	img{
+		height:250px;
+		width:250px;
+		border:3px solid black;
+	}
+	
+	img#chef{
+		background-image:url("chef.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#satu{
+		background-image:url("satu.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#dua{
+		background-image:url("dua.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#tiga{
+		background-image:url("tiga.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#empat{
+		background-image:url("empat.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#kitchen{
+		background-image:url("kitchen.jpg");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#insta{
+		background-image:url("insta.jpg");
+		height:100px;
+		width:100px;
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+	
+	img#facebook{
+		background-image:url("facebook.jpg");
+		height:97px;
+		width:97px;
+		border:0px;
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+	}
+		
+	header{ 
+		background-color: #000000;
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		height:100px;
+		text-align : center;
+		font-size : 40px;
+		font-family: arial;
+		font-weight : bold;
+		color : white;
+		padding-top: 40px;
+	}
+	
+	body{
+		background-color: #3eb8ae
+	}
+	
+	footer{
+		background-color:black;
+		height:210px;
+		width:auto;
+	}
+	
+	footer p{
+		color: white;
+	}
+	
+	.menuUtama { background-color: black;
+				 border:2px solid #000000;
+				 margin-top :10px;
+				 text-align: center;
+	}
+	
+	.menuUtama a{
+		padding-left:50px;
+		padding-right:50px;
+		font-size:20px;
+		color: white;
+	}
+			
+	.kepala { display : flex;
+			  flex-direction : column;
+			  height : 100vh;
+			  background-color : pink;
+	}
